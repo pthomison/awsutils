@@ -12,8 +12,6 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/pthomison/errcheck v0.0.1 h1:kNM+1enjd9/DcNgVjdCMnkk0p5ApMPOUWcEHQ5M5cIQ=
 github.com/pthomison/errcheck v0.0.1/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
-github.com/pthomison/golang-utils v0.1.1 h1:mi1t6UG/h2rGVd11rmt38ugXTT/2Z7F41QGVLwud1dI=
-github.com/pthomison/golang-utils v0.1.1/go.mod h1:lqbbdwVjW1hOttc2AnhT3V6PmrNQQ+i4c3TVaHHeN3E=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
 golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
