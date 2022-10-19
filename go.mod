@@ -3,7 +3,7 @@ module github.com/pthomison/awsutils
 go 1.19
 
 require (
-	github.com/aws/aws-sdk-go v1.44.94
+	github.com/aws/aws-sdk-go v1.44.119
 	github.com/pthomison/errcheck v0.0.1
 )
 
