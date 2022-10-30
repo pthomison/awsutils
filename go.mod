@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.44.126
-	github.com/pthomison/errcheck v0.0.2
+	github.com/pthomison/errcheck v0.0.3
 )
 
 require (

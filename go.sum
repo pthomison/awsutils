@@ -18,6 +18,8 @@ github.com/pthomison/errcheck v0.0.1 h1:kNM+1enjd9/DcNgVjdCMnkk0p5ApMPOUWcEHQ5M5
 github.com/pthomison/errcheck v0.0.1/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
 github.com/pthomison/errcheck v0.0.2 h1:+QWX+1NNQNiT9bJdz5iPPFStvdxelx2sP3Why7+bR+A=
 github.com/pthomison/errcheck v0.0.2/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
+github.com/pthomison/errcheck v0.0.3 h1:erjMMB1Z+x7SoNFwhv6tZtvw6rOokHlhmGGWjMwfcDU=
+github.com/pthomison/errcheck v0.0.3/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
 golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
